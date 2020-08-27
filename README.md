@@ -24,17 +24,17 @@
     &nbsp; [![HitCount](http://hits.dwyl.com/ankit-kaushal/ankit-kaushal.svg)](http://hits.dwyl.com/ankit-kaushal/ankit-kaushal) 
 -->
 
-<img align="right" alt="PC GIF" src="https://github.com/ankoi-kaushal/ankit-kaushal/blob/master/Assets/PC.gif" width="190" />
+<img align="right" alt="PC GIF" src="https://github.com/ankit-kaushal/ankit-kaushal/blob/master/Assets/PC.gif" width="190" />
 
 ### <img src="https://github.com/ankit-kaushal/ankit-kaushal/blob/master/Assets/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/ankit-kaushal/ankit-kaushal/blob/master/Assets/Earth.gif" width="24px">
 
 <p>
   <em>
     I am an undergraduate pursuing Bachelors's in Computer Science 🎓 from <a href="http://iiitkalyani.ac.in/"> <b>Indian Institute of Information Technology</b>, Kalyani</a>.  
-    I'm a passionate learner who's always willing to learn and work across technologies and domains <img src="https://github.com/ankit-kaushal/ankit-kaushal/blob/master/Assets/Developer.gif" width="30px"> . I love to explore new technologies and leverage them to solve real-life problems ✨. I'm also a self-proclaimed graphic designer &nbsp;<img src="https://github.com/ankit-kaushal/ankit-kaushal/blob/master/Assets/Designer.gif" width="36px">and internet surfer 🏄‍♂️ who is <b>obsessed</b>
-    with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
-    <b>grow</b> <img src="https://github.com/ankit-kaushal/ankit-kaushal/blob/master/Assets/Rocket.gif" width="18px">and 
-    <b>excel.</b> <img src="https://github.com/ankit-kaushal/ankit-kaushal/blob/master/Assets/Medal.gif" width="20px">
+    I'm a passionate learner who's always willing to learn and work across technologies and domains <img src="https://github.com/ankit-kaushal/ankit-kaushal/blob/master/Assets/Developer.gif" width="30px"> . I love to explore new technologies and leverage them to solve real-life problems ✨. I'm also a self-proclaimed graphic designer&nbsp;<img src="https://github.com/ankit-kaushal/ankit-kaushal/blob/master/Assets/Designer.gif" width="36px"> and internet surfer 🏄‍♂️ who is obsessed
+    with the idea of improving himself and wants a platform to 
+    grow <img src="https://github.com/ankit-kaushal/ankit-kaushal/blob/master/Assets/Rocket.gif" width="18px">and 
+    excel. <img src="https://github.com/ankit-kaushal/ankit-kaushal/blob/master/Assets/Medal.gif" width="20px">
   </em>  
 </p>
 
