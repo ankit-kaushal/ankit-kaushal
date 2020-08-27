@@ -24,7 +24,7 @@
     &nbsp; [![HitCount](http://hits.dwyl.com/ankit-kaushal/ankit-kaushal.svg)](http://hits.dwyl.com/ankit-kaushal/ankit-kaushal) 
 -->
 
-<img align="right" alt="PC GIF" src="https://github.com/ankit-kaushal/ankit-kaushal/blob/master/Assets/code.gif" width="200" />
+<img align="right" alt="PC GIF" src="https://github.com/ankit-kaushal/ankit-kaushal/blob/master/Assets/code.gif" width="200" height="120"/>
 
 ### <img src="https://github.com/ankit-kaushal/ankit-kaushal/blob/master/Assets/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/ankit-kaushal/ankit-kaushal/blob/master/Assets/Earth.gif" width="24px">
 
