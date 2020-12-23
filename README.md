@@ -44,7 +44,7 @@
 
 <br>
 
-![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
+![picture](https://github.com/ankit-kaushal/ankit-kaushal/blob/master/Assets/dino.gif)
 <br />
 <br />
 
