@@ -44,7 +44,7 @@
 
 <br>
 
-![picture](https://github.com/ankit-kaushal/ankit-kaushal/blob/master/Assets/dino.gif)
+![picture](https://thelonelytribalist.files.wordpress.com/2015/08/nointernet_dinogame_gif.gif?w=740)
 <br />
 <br />
 
