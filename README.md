@@ -44,7 +44,7 @@
 
 <br>
 
-![picture](https://github.com/ankit-kaushal/ankit-kaushal/blob/master/Assets/dino.gif)
+![picture](https://github.com/ankit-kaushal/ankit-kaushal/blob/master/Assets/dinorun.gif)
 <br />
 <br />
 
