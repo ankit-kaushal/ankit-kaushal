@@ -1,74 +1,64 @@
-# Ankit Kaushal&nbsp;<img src="https://github.com/ankit-kaushal/ankit-kaushal/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
-<a href="https://twitter.com/itsankitkaushal">
-  <img align="left" alt="Ankit's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://linkedin.com/in/ankit-kaushal">
-  <img align="left" alt="Ankit's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/ankit-kaushal">
-  <img align="left" alt="Ankit's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://t.me/ankit_kaushal">
-  <img align="left" alt="Ankit's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://instagram.com/imankitkaushal/">
-  <img align="left" alt="Ankit's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/imankitkaushal/">
-  <img align="left" alt="Ankit's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
+### Hey, [Ankit](https://www.ankitkaushal.tech/) here! <img src="https://github.com/ankit-kaushal/ankit-kaushal/blob/master/Assets/Mario_Hello_Big.gif" width="25px">
 
-<br />
-
-<!-- 
-    &nbsp; [![HitCount](http://hits.dwyl.com/ankit-kaushal/ankit-kaushal.svg)](http://hits.dwyl.com/ankit-kaushal/ankit-kaushal) 
--->
-
-<img align="right" alt="PC GIF" src="https://github.com/ankit-kaushal/ankit-kaushal/blob/master/Assets/code.gif" width="210" height="160"/>
-
-### <img src="https://github.com/ankit-kaushal/ankit-kaushal/blob/master/Assets/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/ankit-kaushal/ankit-kaushal/blob/master/Assets/Earth.gif" width="24px">
-
-<p>
-  <em>
-    I am an undergraduate pursuing Bachelors's in Computer Science 🎓 from <a href="http://iiitkalyani.ac.in/"> <b>Indian Institute of Information Technology</b>, Kalyani</a>.  
-    I'm a passionate learner who's always willing to learn and work across technologies and domains <img src="https://github.com/ankit-kaushal/ankit-kaushal/blob/master/Assets/Developer.gif" width="30px"> . I love to explore new technologies and leverage them to solve real-life problems ✨. I'm also a self-proclaimed graphic designer&nbsp;<img src="https://github.com/ankit-kaushal/ankit-kaushal/blob/master/Assets/Designer.gif" width="36px"> and internet surfer 🏄‍♂️ who is obsessed
-    with the idea of improving himself and wants a platform to 
-    grow <img src="https://github.com/ankit-kaushal/ankit-kaushal/blob/master/Assets/Rocket.gif" width="18px">and 
-    excel. <img src="https://github.com/ankit-kaushal/ankit-kaushal/blob/master/Assets/Medal.gif" width="20px">
-  </em>  
+[![Linkedin Badge](https://img.shields.io/badge/-ankit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ankit-kaushal/)](https://www.linkedin.com/in/ankit-kaushal/) [![Gmail Badge](https://img.shields.io/badge/-ankitkaushal288@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ankitkaushal288@gmail.com)](mailto:ankitkaushal288@gmail.com)
+<p align="left"> 
+  
+  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ankit-kaushal) 
+  
 </p>
 
 
+ ## Who am I?
+ ```javascript
 
-![Ankit's github stats](https://github-readme-stats.vercel.app/api?username=ankit-kaushal&show_icons=true&hide_border=true)
+  const WhoAmI = {
+    name: 'Ankit',
+    surname: 'Kaushal',
+    fullName: function () {
+      return function () {
+        console.log(this.name + ' ' + this.surname);
+      }.bind(this);
+    },
+    current_work: 'Cogoport Pvt Ltd',
+  };
 
-<br>
+  const myName = WhoAmI.fullName();
+  myName();
+	
+  function getCity() {
+    return 'Bokaro, Jharkhand';
+  }
 
-![picture](https://github.com/ankit-kaushal/ankit-kaushal/blob/master/Assets/dinorun.gif)
-<br />
-<br />
+ ```
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=ankit-kaushal)
+## 🔥 My contribution streak
+
+<p align="center">
+  <a href="https://github.com/ankit-kaushal/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankit-kaushal#version3"/>
+  </a>
+</p>
+
+<h3 align="center">⬇ Scroll down to see <a href="https://github.com/DenverCoder1?tab=repositories">my repos</a>! ⭐ Stars are appreciated!</h3>
 
 
-<br>
-<br>
+## 📈 Github Stats
 
-<!--### Hi there 👋-->
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<details>
+  <summary>📊 GitHub Profile Stats</summary>
+  <br/>
+  <a href="https://github.com/ankit-kaushal/github-readme-stats"><img alt="ankit-kaushal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ankit-kaushal&show_icons=true&count_private=true&hide=" /></a>
+</details>
 
+<details> 
+  <summary>💻 Most used languages</summary>
+  <br/>
+  <a href="https://github.com/ankit-kaushal/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenverCoder1&langs_count=10&layout=compact#" /></a>
+  <br/>
+  <b>Note:</b> This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.
+</details>
 
-
-<!--
-**ankit-kaushal/ankit-kaushal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Other Stuff
+  - :octocat: [My Resume](https://kpin.in/ankits_resume)
+  - If you have any suggestions for me, feel free to inform me.
