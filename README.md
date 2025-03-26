@@ -19,7 +19,7 @@
         console.log(this.name + ' ' + this.surname);
       }.bind(this);
     },
-    current_work: 'Cogoport Pvt Ltd',
+    current_work: 'Silverlabs India Pvt Ltd',
   };
 
   const myName = WhoAmI.fullName();
