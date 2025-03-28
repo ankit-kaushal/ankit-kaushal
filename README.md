@@ -1,4 +1,4 @@
-### Hey, [Ankit](https://www.ankitkaushal.tech/) here! <img src="https://github.com/ankit-kaushal/ankit-kaushal/blob/master/Assets/Mario_Hello_Big.gif" width="25px">
+### Hey, [Ankit](https://www.ankitkaushal.in.net/) here! <img src="https://github.com/ankit-kaushal/ankit-kaushal/blob/master/Assets/Mario_Hello_Big.gif" width="25px">
 
 [![Linkedin Badge](https://img.shields.io/badge/-ankit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ankit-kaushal/)](https://www.linkedin.com/in/ankit-kaushal/) [![Gmail Badge](https://img.shields.io/badge/-ankitkaushal288@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ankitkaushal288@gmail.com)](mailto:ankitkaushal288@gmail.com)
 <p align="left"> 
