@@ -35,7 +35,7 @@
 
 <p align="center">
   <a href="https://github.com/ankit-kaushal/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankit-kaushal#version3"/>
+    <img src="https://streak-stats.vercel.app/?user=ankit-kaushal&theme=default&hide_border=false"/>
   </a>
 </p>
 
@@ -48,7 +48,7 @@
 <details>
   <summary>📊 GitHub Profile Stats</summary>
   <br/>
-  <a href="https://github.com/ankit-kaushal/github-readme-stats"><img alt="ankit-kaushal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ankit-kaushal&show_icons=true&count_private=true&hide=" /></a>
+  <a href="https://github.com/ankit-kaushal/github-readme-stats"><img alt="ankit-kaushal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ankit-kaushal&show_icons=true&count_private=true&hide=" /></a>https://streak-stats.vercel.app/?user=ankit-kaushal&theme=default&hide_border=false
 </details>
 
 <details> 
